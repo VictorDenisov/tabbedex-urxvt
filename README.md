@@ -1,5 +1,8 @@
 Perl script to support tab on urxvt.
 
+In addition to standard tabbedex it also allows you to select first 10 tabs
+using Alt-number.
+
 ###Install
 To install clone the repository:
 
